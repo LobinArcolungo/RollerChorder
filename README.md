@@ -40,9 +40,3 @@ open RollerChorder/RollerChorder.xcodeproj
 **Contributing**
 - File an issue or submit a pull request for improvements or bug fixes. For Watch changes, test in Xcode or the Simulator.
 
-**License**
-- Add license information here (e.g., MIT) or ask the maintainer which license to use.
-
----
-
-If you want, I can extend this README with detailed Python dependency installation, sample outputs from `getSongChord.py`, or a template for configuring the Telegram bot.
