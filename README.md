@@ -10,6 +10,7 @@ A collection of utilities for extracting, managing and displaying song chords. T
 
 **Components**
 - **`chord_getter_py`**: Python scripts that parse text files containing chords and return relevant chords for a song. The main script is `getSongChord.py` and the `chords/` folder holds sample source files.
+  **`Disclaimer`**: this is an old script, and apparently is now (2026) not allowed from ultimate-guitar to scrape their page for chords due to "agreements with music companies". 
 - **`RollerChorderBot`**: a Telegram bot and supporting scripts that provide remote access to the project's features. Key files include `RollerChordBot.py`, `qr_reading_test.py` and `database_test_0.py`.
 - **`RollerChorder`**: an Apple Watch app (Xcode project) to display chords and provide a simple UI for scrolling through content while playing. App logic is under `RollerChorder WatchKit Extension/Model` and UI files are in `View`.
 
